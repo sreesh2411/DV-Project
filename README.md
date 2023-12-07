@@ -1,4 +1,4 @@
-# DV_Project
+# Data Visualization Project
 
 ## Goal
 Our project aims to create a website/dashboard containing the live statistics of all the teams in
