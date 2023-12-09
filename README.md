@@ -7,6 +7,9 @@ of each team's current standing. Through the dashboard, we intend to visualize t
 measurements that are usually considered for indicating teams’ performance. Some examples
 of this could be Team Form and Team Rating.
 
+## Demo Screenshot
+![alt text]([http://url/to/img.png](https://github.com/sreesh2411/DV_Project/blob/main/Demo%20Screenshot.png)https://github.com/sreesh2411/DV_Project/blob/main/Demo%20Screenshot.png)
+
 ## Team Members
 
 Gunjan Joshi<br>
